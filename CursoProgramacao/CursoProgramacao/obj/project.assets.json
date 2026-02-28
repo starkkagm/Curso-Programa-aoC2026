@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\source\\repos\\CursoProgramacao\\CursoProgramacao\\CursoProgramacao.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\source\\repos\\Curso-Programa-aoC2026\\CursoProgramacao\\CursoProgramacao\\CursoProgramacao.csproj",
       "projectName": "CursoProgramacao",
-      "projectPath": "C:\\Users\\Aluno\\source\\repos\\CursoProgramacao\\CursoProgramacao\\CursoProgramacao.csproj",
+      "projectPath": "C:\\Users\\Aluno\\source\\repos\\Curso-Programa-aoC2026\\CursoProgramacao\\CursoProgramacao\\CursoProgramacao.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\source\\repos\\CursoProgramacao\\CursoProgramacao\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\source\\repos\\Curso-Programa-aoC2026\\CursoProgramacao\\CursoProgramacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

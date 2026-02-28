@@ -20,7 +20,7 @@ namespace CursoProgramacao
             Console.WriteLine("Infome o valor 2");
             valor2 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"total: {valor1 + valor2}");
+            Console.WriteLine($"A Soma é: {valor1 + valor2}");
 
         }
         //Método Multiplicar 
@@ -36,7 +36,7 @@ namespace CursoProgramacao
             Console.WriteLine("Infome o valor 2");
             valor2 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"total: {valor1 * valor2}");
+            Console.WriteLine($"A Multiplicaçao é: {valor1 * valor2}");
         }
         //Metdo Dividir
         public void Divisao()
@@ -49,7 +49,7 @@ namespace CursoProgramacao
             valor2 = int.Parse(Console.ReadLine());
 
 
-            Console.WriteLine($"Valor Final \n {valor1 / valor2}");
+            Console.WriteLine($"A Divisão é: \n {valor1 / valor2}");
         }
         //Subtrair 
         public void Subtrair()
@@ -61,8 +61,21 @@ namespace CursoProgramacao
             valor2 = int.Parse(Console.ReadLine());
 
 
-            Console.WriteLine($"valor Final: {valor1 - valor2}");
+            Console.WriteLine($" A Subtração é : {valor1 - valor2}");
         }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     }
 
 } 
